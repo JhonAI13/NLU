@@ -1,0 +1,9 @@
+{
+  "labels":[
+    "saudacao",
+    "ver_saldo",
+    "despedida"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
