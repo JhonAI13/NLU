@@ -541,16 +541,16 @@ nlu_dataset_bruto = {
 
 
 MAPA_PRODUTO_CATEGORIA = {
-    "iphone 17 pro": "smartphones",
-    "galaxy s25 ultra": "smartphones",
-    "pixel 10": "smartphones",
-    "playstation 5 slim": "consoles de videogame",
-    "xbox series x": "consoles de videogame",
-    "nintendo switch oled": "consoles de videogame",
-    "macbook air m4": "notebooks",
-    "dell xps 15": "notebooks",
-    "hp spectre x360": "notebooks",
-    "sony wh-1000xm6": "fones de ouvido"
+    "celular top de linha": "smartphones",
+    "celular Android de ponta": "smartphones",
+    "celular com foco em câmera": "smartphones",
+    "console de videogame de mesa": "consoles de videogame",
+    "console de videogame de alta performance": "consoles de videogame",
+    "console de videogame híbrido": "consoles de videogame",
+    "notebook ultrafino": "notebooks",
+    "notebook para produtividade": "notebooks",
+    "notebook conversível 2 em 1": "notebooks",
+    "fone de ouvido com cancelamento de ruído": "fones de ouvido"
 }
 
 # ===================================================================================

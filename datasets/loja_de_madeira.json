@@ -1,0 +1,7714 @@
+[
+    {
+        "text": "Olá",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Bom dia",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa tarde",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa noite",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "E aí, tudo bem?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Opa, como vai?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, preciso de uma informação",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de começar o atendimento",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Podemos começar?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Quero iniciar uma conversa",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, tem alguém aí para me ajudar?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Preciso de suporte",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Ei, bom dia",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa tarde, poderiam me auxiliar?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Alô, preciso de ajuda",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Como posso ser ajudado?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, preciso de um auxílio",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, como você está?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Saudações",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Como vai?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Quero falar com vocês",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, equipe",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, tudo certo?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Bom dia, gostaria de um suporte",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa noite, tudo bom?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Hey",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Posso fazer uma pergunta?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Iniciar atendimento",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, pode me ajudar?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Começar",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Início",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Bom dia, preciso de informações",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa tarde, quero tirar uma dúvida",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, boa noite, como estão?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "E aí",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Opa",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Começar chat",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Preciso de ajuda com um pedido",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Quero saber sobre um produto",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, me ajude por favor",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Alô, tem alguém online?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de um auxílio",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, bom dia!",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "E aí, beleza?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa tarde, equipe",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa noite, preciso de suporte técnico",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, meu amigo",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Quero começar a conversa",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Poderia me dar uma mão?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Start",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Preciso de um help",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, gostaria de assistência",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, tem alguém aí?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Tudo bem com vocês?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Como posso iniciar?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, como vai?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Preciso falar com um atendente",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, suporte",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Bom dia, tudo joia?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa tarde, por favor, me ajude",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa noite, uma informação, por favor",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "E aí, firmeza?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Opa, bão?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, pessoal",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Como vai você?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Posso começar?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Quero ajuda",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, preciso de ajuda com uma compra",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, como faço para...",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Bom dia, gente",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa tarde, caros",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa noite, prezados",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, tudo em ordem?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Saudações, equipe de suporte",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Preciso de um help aqui",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, me dá uma luz",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Bom dia, poderiam me ajudar?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa tarde, como vai o atendimento?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa noite, tem alguém para conversar?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, preciso de um esclarecimento",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, como proceder?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber mais sobre...",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, olá",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Quero atendimento",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Como estão?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, bom dia, tudo bem?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, boa tarde, preciso de ajuda",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Boa noite, gostaria de uma informação",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "E aí, como andam as coisas?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Opa, posso perguntar?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Iniciando o contato",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Olá, equipe de atendimento",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Oi, pode me dar uma força?",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Bom dia, amigo(a)",
+        "intent": "saudacao",
+        "entities": []
+    },
+    {
+        "text": "Tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Até mais",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Até logo",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, por enquanto é só",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Adeus",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Falou",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tenha um bom dia",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, pode encerrar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Finalizar conversa",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Era só isso, obrigado(a)",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Não preciso de mais nada",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Por hoje é só",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tudo resolvido, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Pode finalizar o atendimento, por favor",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Até a próxima",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Agradeço e até mais",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tchau, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Encerrado, obrigado",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Fim de atendimento",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pela ajuda, adeus",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Vou indo, até mais",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Bom trabalho e até a próxima",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tenha uma ótima noite",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Grato, pode finalizar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Já me ajudou, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "É só isso",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Concluído, até logo",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Bye",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "See you later",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Perfeito, pode encerrar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Finalizar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Encerrar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Até mais ver",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tudo certo, pode finalizar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Agradecido, até a próxima",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Pode fechar o chat",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Não tenho mais dúvidas, obrigado",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Resolvido, até mais",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Por mim, tudo bem, pode encerrar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tchau, obrigado",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Vou nessa",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Fui",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Até breve",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tenha um bom resto de dia",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado e boa noite",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Finalizando...",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Pode concluir",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Era isso, valeu",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Nada mais, agradeço",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Por agora é só",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tudo ok, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "A conversa pode ser finalizada",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, adeus",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Abraço e até mais",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Missão cumprida, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Pode encerrar, por favor",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Agradeço, pode finalizar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Ok, pode encerrar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Sem mais perguntas, obrigado",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "É o suficiente, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Chega por hoje",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Fim de papo",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, tenha um ótimo dia",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Pode finalizar a sessão",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Já tiraram minha dúvida, até mais",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tudo esclarecido, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, bom trabalho",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Isso conclui meu atendimento",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Ok, fim",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tudo resolvido, pode fechar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Agradeço o suporte, até mais",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tchau e obrigado",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Flw",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Até logo, obrigado",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Perfeito, era só isso",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Pode dar como encerrado",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, vou indo",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Chegamos ao fim",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Por hoje chega",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pela assistência, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Até, obrigado",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Concluído com sucesso, adeus",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Pode finalizar, agradecido",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Ok, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tudo certo, até mais",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, pode fechar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Encerre o atendimento, por favor",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Valeu, até a próxima",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Isso é tudo, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Grato, até logo",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Finalizar chat",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Pode me desconectar",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado e até mais",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Era só essa a questão, tchau",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Não necessito de mais nada, obrigado",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, tenha uma boa tarde",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Finalizado",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Pode fechar a conversa",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Tchau, se cuida",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Até mais, obrigado pela ajuda",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Por mim, encerramos",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Valeu, falou",
+        "intent": "despedida",
+        "entities": []
+    },
+    {
+        "text": "Obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigada",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Grato(a)",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Muito obrigado(a)",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço a ajuda",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Show, valeu",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Perfeito, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Excelente, muito obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pela informação",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço a atenção",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu pelo suporte",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Ajudou demais, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Minha dúvida foi sanada, grato",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Resolvido, obrigado!",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigadão",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradecido(a)",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu mesmo",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Fico muito grato(a)",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Show de bola, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Satisfeito, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Muito bom, valeu",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Ok, agradeço",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Entendi, muito obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Ótimo, era isso. Obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Maravilha, valeu!",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Gratidão",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Thanks",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Tks",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pela paciência",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço imensamente",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Muito agradecido",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu pela força",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pelo esclarecimento",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço de coração",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Top, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Excelente, agradeço",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, você me ajudou muito",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Grato pela resposta rápida",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu, fera",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, amigo(a)",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço o retorno",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Muito obrigado pelo auxílio",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Fico agradecido",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pelo tempo",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradecido pela ajuda",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Que bom, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Muitíssimo obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Ok, valeu",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pela assistência",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Ajudou bastante, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Esclarecido, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pela dica",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Genial, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço a gentileza",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pelo excelente atendimento",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu, nota 10",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Tudo certo, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, foi de grande ajuda",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Sou grato",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço a presteza",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pelo help",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu pela moral",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado por tudo",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Isso mesmo, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Perfeito, agradeço",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, era o que eu precisava",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Maravilha, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pela colaboração",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Grato pelo apoio",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, Deus lhe pague",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço muito",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu, de verdade",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pela clareza",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradecido, amigo",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, resolveu meu problema",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Show, muito obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Ok, grato",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pelo suporte técnico",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço o esforço",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, você é um anjo",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Era isso, valeu mesmo",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, foi ótimo",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Grato pela atenção dispensada",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu a pena, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pela ajuda rápida",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço a explicação",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado pela orientação",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Fico grato",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu, campeão",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, isso ajuda muito",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço sua ajuda",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Excelente suporte, obrigado",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado por me ajudar",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Grato pela informação",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, foi muito útil",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Valeu pela ajuda, de verdade",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradeço sinceramente",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Muito obrigado, de verdade",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Top, valeu",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, foi um prazer",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Agradecido pela paciência",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Obrigado, foi mais fácil do que eu pensava",
+        "intent": "agradecimento",
+        "entities": []
+    },
+    {
+        "text": "Sim",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Ok",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Certo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Correto",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Exato",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Isso mesmo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Com certeza",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Claro",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Positivo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Afirmativo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Confirmo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "De acordo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Beleza",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Fechado",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Combinado",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, por favor",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, gostaria",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Isso, pode continuar",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Exatamente isso",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Concordo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode ser",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Aham",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Uhum",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "É isso aí",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode prosseguir",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Está correto",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Isso",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Yep",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "S",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, eu quero",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode crer",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Justo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sem dúvida",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Claro que sim",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "É isso",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Certíssimo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Corretíssimo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Exatamente",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Isso, por favor",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, pode ser",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Com certeza absoluta",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode confirmar",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Estou de acordo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Feito",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Tá certo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "É isso mesmo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Ok, pode ir em frente",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Beleza então",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, prossiga",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Confirmo a informação",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Isso, pode fazer",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Correto, é essa a opção",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, aceito",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Positivo, pode continuar",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Ok, entendi",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Certo, pode ser",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Com certeza, vamos lá",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Claro, por que não?",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Afirmativo, capitão",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "De acordo total",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Fechou",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Tá combinado",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, por gentileza",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Isso, pode mandar bala",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Exato, é isso que eu quero",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Concordo plenamente",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode ser sim",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Uhum, pode continuar",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "É exatamente isso",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode seguir",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Está certíssimo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Isso aí",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, quero sim",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode apostar que sim",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sem dúvidas",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Claro, pode fazer",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Positivo e operante",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Confirmo, pode prosseguir",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "De acordo, vamos em frente",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Beleza pura",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Fechado, negócio fechado",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Combinadíssimo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, por favor, continue",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, gostaria muito",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Isso, continue por favor",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Exatamente isso que eu pensei",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Concordo com você",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode ser uma boa",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Aham, prossiga",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Uhum, isso mesmo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "É isso aí, pode continuar",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode prosseguir, por favor",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Está correto, pode avançar",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Isso, por favor, faça",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, eu desejo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Certamente",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Óbvio",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Claro que pode",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode mandar ver",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Ok, confirmado",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Sim, está certo",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Pode ir",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Okay",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "S, pfv",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Isso.",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Exato.",
+        "intent": "afirmacao",
+        "entities": []
+    },
+    {
+        "text": "Não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Negativo",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "De jeito nenhum",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Jamais",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Errado",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Incorreto",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, obrigado(a)",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não quero",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, não é isso",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Absolutamente não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Claro que não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nem pensar",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "De forma alguma",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, pode cancelar",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não concordo",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Discordo",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não é verdade",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Acho que não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Desta vez não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Agora não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Ainda não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não tenho interesse",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Impossível",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Sem chances",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, está errado",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, essa não é a informação correta",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, não foi o que eu perguntei",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nope",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "N",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "De maneira nenhuma",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nop",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, de jeito nenhum",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Jamais, em tempo algum",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Incorreto, pode corrigir",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, valeu",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não gostaria",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, isso está incorreto",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nada disso",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Claro que não, pode parar",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nem pensar nisso",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "De forma alguma, cancele",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, não concordo com isso",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Discordo totalmente",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Isso não é verdade",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Creio que não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Hoje não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nesse momento não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Ainda não, obrigado",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não possuo interesse",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "É impossível",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nenhuma chance",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, a informação está errada",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não foi isso que eu disse",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, você entendeu errado",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "De maneira alguma",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não mesmo",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nem vem",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nada feito",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, por favor, pare",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, não quero",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Errado, não é essa opção",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, obrigado, dispenso",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não estou interessado",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, não é o que eu busco",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Absolutamente incorreto",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Claro que não, está louco?",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nem em sonho",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "De jeito algum",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, cancele por favor",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não estou de acordo",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Discordo veementemente",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Isso é falso",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Acho que não é por aí",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Desta vez passo",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Agora não, por favor",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Ainda não é o momento",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Sem interesse",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Completamente impossível",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Chance zero",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, está tudo errado",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, a informação correta é outra",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não foi essa a minha pergunta",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, não, não",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nananinanão",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nem a pau",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "De modo algum",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, pode deixar",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, não precisa",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não quero, obrigado",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Incorreto, verifique novamente",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, não é isso que eu preciso",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Absolutamente não, pare",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Nem pense nisso",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "De forma alguma, não continue",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, discordo",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Isso é mentira",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Acho que não, hein",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Desta vez não, obrigado",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Agora não dá",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Ainda não, quem sabe depois",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não tenho o menor interesse",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Isso é impossível de fazer",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Sem a menor chance",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, está incorreto",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, a informação está equivocada",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, você não respondeu o que eu perguntei",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "De jeito maneira",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, para",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não, obrigado, de verdade",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Não quero, valeu",
+        "intent": "negacao",
+        "entities": []
+    },
+    {
+        "text": "Qual é o horário de funcionamento?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A que horas vocês abrem?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Quando a madeireira fecha?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Até que horas o atendimento funciona?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Vocês estão abertos agora?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de atendimento hoje?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Vocês abrem aos sábados?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "E no domingo, qual o horário?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A loja funciona em feriados?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Me informe o horário de vocês, por favor",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber o horário de atendimento.",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A loja física abre em que horário?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O atendimento por telefone tem horário específico?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário do suporte?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O horário é o mesmo para todas as filiais?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Poderia confirmar o horário de funcionamento?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A loja já abriu?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Ainda dá tempo de ir na loja?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Vocês fecham para almoço?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário comercial de vocês?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A que horas começa o atendimento?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Até que horas posso ser atendido?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de funcionamento da loja da BR?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O horário no site está atualizado?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de funcionamento durante a semana?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "E no final de semana, como funciona?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Preciso saber o horário para me programar.",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A que horas o expediente se encerra?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário da loja hoje?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Amanhã vocês abrem em que horário?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de funcionamento de segunda a sexta?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A que horas fecham no sábado?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A madeireira está aberta neste momento?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O atendimento presencial vai até que horas?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Me diga o horário de abertura e fechamento.",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de funcionamento da filial do centro?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Vocês têm horário estendido?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O atendimento online é 24h?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário para retirada de material?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Posso ir aí às 18h?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A loja abre no próximo feriado?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de funcionamento no Natal?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "E no Ano Novo, qual o horário?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber o horário de funcionamento da loja.",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A que horas o suporte por chat fica disponível?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O horário da loja do bairro X é qual?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Confirma pra mim o horário de funcionamento.",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Até quando a loja fica aberta hoje?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Vocês abrem no período da manhã?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "E à tarde, até que horas vão?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O expediente começa a que horas?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O horário de atendimento telefônico é o mesmo da loja física?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de vocês na sexta-feira?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A que horas a loja fecha hoje?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de pico no atendimento?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Vocês funcionam em horário de almoço?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Amanhã é feriado, vocês abrem?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de atendimento do SAC?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A loja física fecha a que horas?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Posso ligar para vocês a que horas?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O horário de funcionamento é padrão para todas as lojas?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Me passa o horário, por favor.",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de confirmar o horário.",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A que horas posso visitar a loja?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de funcionamento para devoluções?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O horário da marcenaria é qual?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A loja da zona sul abre que horas?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Vocês trabalham aos domingos?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário no feriado de Corpus Christi?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O horário de funcionamento mudou?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Onde encontro o horário de funcionamento de vocês?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de atendimento no balcão?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A loja abre antes das 8h?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O fechamento é às 18h mesmo?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de atendimento especial de fim de ano?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Vocês abrem no carnaval?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A que horas o atendimento se inicia?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Até que horas posso resolver meu problema hoje?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário da loja da minha cidade?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O horário de funcionamento inclui os feriados municipais?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de verão de vocês?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A loja abre mais cedo durante a semana?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário limite para entrar na loja?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O horário do drive-thru é diferente?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Poderia me informar o horário de atendimento, por gentileza?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "A que horas vocês encerram as atividades hoje?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de expediente?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Vocês abrem todos os dias da semana?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de funcionamento da loja online?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "O horário de atendimento é contínuo?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual o horário de funcionamento aos sábados e domingos?",
+        "intent": "perguntar_horario_funcionamento",
+        "entities": []
+    },
+    {
+        "text": "Qual a previsão do tempo para amanhã?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Me conta uma piada engraçada",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Quem vai ganhar o jogo hoje?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o sentido da vida?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você tem sentimentos?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a capital do Japão?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Me passa uma receita de bolo de fubá",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Traduza 'bom dia' para espanhol",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Quem escreveu Dom Casmurro?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o seu nome?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você é um robô ou uma pessoa?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Vamos falar sobre filosofia",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Recomende um filme de comédia",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o preço da gasolina hoje?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Como está o trânsito na minha cidade?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Quero pedir uma pizza de calabresa",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Chame um carro pra mim",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o resultado da mega-sena?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a cotação do euro?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode cantar uma música?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual sua cor favorita?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Quem te programou?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "O que você acha sobre inteligência artificial?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Existem extraterrestres?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Como eu faço para ganhar na loteria?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "asdfghjklç",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "123456",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "bla bla bla wiskas sache",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "isso é um teste do sistema",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a raiz quadrada de 81?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Quem descobriu o Brasil?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "O que é um buraco negro?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a distância da Terra até a Lua?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você sonha?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a sua idade?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Cante a música do pintinho amarelinho",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o melhor time de futebol do mundo?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Como fazer um avião de papel?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você gosta de mim?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o seu signo?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Existe vida em outros planetas?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a população da China?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Onde você mora?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode me dar dinheiro?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o seu propósito?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Quem é o presidente do Brasil?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Como consertar uma torneira pingando?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Me dê um conselho amoroso.",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a melhor maneira de aprender inglês?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode me contar um segredo?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a fórmula de Bhaskara?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Quem foi Albert Einstein?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode sentir dor?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o significado do seu nome?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Recomende um livro de suspense.",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Como fazer café?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você fica cansado?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a sua comida favorita?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você acredita em Deus?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a sua opinião sobre política?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "O que você faz no seu tempo livre?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você tem irmãos?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a sua música preferida?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Quem ganha numa luta entre um leão e um tigre?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Por que o céu é azul?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Como a internet funciona?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode aprender coisas novas sozinho?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual foi o seu dia mais feliz?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você tem medo de alguma coisa?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o animal mais rápido do mundo?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Como se joga xadrez?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode me ajudar com meu dever de casa de matemática?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a montanha mais alta do mundo?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode criar uma imagem para mim?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "O que acontece depois da morte?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode me ligar?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o seu filme favorito?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode fazer uma reserva em um restaurante para mim?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Quem vai ganhar as eleições?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode me contar uma história de ninar?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o seu maior sonho?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Como eu posso ser feliz?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode me dar um abraço?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual a senha do Wi-Fi?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode me emprestar seu carro?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "O que é o amor?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode fazer meu trabalho por mim?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o seu YouTuber favorito?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode me dar um feedback sobre a minha aparência?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Qual o melhor lugar para viajar nas férias?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Você pode me contar o final do filme que estou assistindo?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "xyz",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "quero um poema",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "história da arte",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "fale sobre carros",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "qual o seu hobby?",
+        "intent": "oos",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de ver as vigas que vocês têm.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "start": 19,
+                "end": 24,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou procurando por decks de madeira.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "start": 21,
+                "end": 37,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais são as opções na categoria de assoalhos?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "start": 36,
+                "end": 45,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Mostre-me as tábuas.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "start": 13,
+                "end": 19,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero ver as portas de madeira.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "portas de madeira",
+                "start": 13,
+                "end": 30,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Poderia me mostrar os painéis de madeira?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "start": 22,
+                "end": 40,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou interessado em forros.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "forros",
+                "start": 21,
+                "end": 27,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais chapas de MDF vocês têm disponíveis?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de MDF",
+                "start": 6,
+                "end": 19,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostra a seção de vernizes e stains.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes e stains",
+                "start": 21,
+                "end": 38,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preciso de madeirite.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "madeirite",
+                "start": 11,
+                "end": 20,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais são os modelos de janelas de madeira?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "janelas de madeira",
+                "start": 24,
+                "end": 42,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de ver a categoria de ferramentas para marcenaria.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "ferramentas para marcenaria",
+                "start": 31,
+                "end": 58,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Tem compensado naval para vender?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "compensado naval",
+                "start": 4,
+                "end": 20,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero dar uma olhada nos caibros.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "caibros",
+                "start": 25,
+                "end": 32,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostre as opções de ripas.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "ripas",
+                "start": 23,
+                "end": 28,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou buscando na seção de ferragens.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "ferragens",
+                "start": 27,
+                "end": 36,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais dobradiças vocês oferecem?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "dobradiças",
+                "start": 6,
+                "end": 16,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Mostre-me as colas para madeira.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "colas para madeira",
+                "start": 13,
+                "end": 31,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preciso de um OSB.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "OSB",
+                "start": 14,
+                "end": 17,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de ver os rodapés.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "rodapés",
+                "start": 19,
+                "end": 26,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais são os batentes de porta disponíveis?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "batentes de porta",
+                "start": 13,
+                "end": 30,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou procurando por escadas de madeira.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "escadas de madeira",
+                "start": 21,
+                "end": 39,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostre a linha de produtos para acabamento.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "produtos para acabamento",
+                "start": 21,
+                "end": 45,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero ver as prateleiras de madeira.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "prateleiras de madeira",
+                "start": 13,
+                "end": 35,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais painéis ripados vocês têm?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "painéis ripados",
+                "start": 6,
+                "end": 21,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Mostre-me os mourões de eucalipto.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "mourões de eucalipto",
+                "start": 13,
+                "end": 33,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Na seção de madeiras para telhado, o que vocês têm?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "madeiras para telhado",
+                "start": 12,
+                "end": 33,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de ver os guarnições.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "guarnições",
+                "start": 19,
+                "end": 29,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostre os degraus de escada.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "degraus de escada",
+                "start": 13,
+                "end": 30,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais as opções de MDP?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "MDP",
+                "start": 19,
+                "end": 22,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou de olho nos corrimãos.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "corrimãos",
+                "start": 18,
+                "end": 27,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostre a categoria madeira aparelhada.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "madeira aparelhada",
+                "start": 22,
+                "end": 40,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero ver as madeiras para construção civil.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "madeiras para construção civil",
+                "start": 13,
+                "end": 43,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Mostre-me os artigos para jardinagem.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "artigos para jardinagem",
+                "start": 13,
+                "end": 36,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais decks para piscina vocês vendem?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "decks para piscina",
+                "start": 6,
+                "end": 24,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou procurando dormentes.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "dormentes",
+                "start": 17,
+                "end": 26,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostre a seção de parafusos.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "parafusos",
+                "start": 21,
+                "end": 30,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de ver as opções de escoras para laje.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "escoras para laje",
+                "start": 29,
+                "end": 46,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais painéis de pinus estão disponíveis?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de pinus",
+                "start": 6,
+                "end": 22,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preciso de uma porta camarão nova.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "porta camarão",
+                "start": 15,
+                "end": 28,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Mostre-me a categoria de telhas.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "telhas",
+                "start": 25,
+                "end": 31,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero ver os artigos de decoração em madeira.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "artigos de decoração em madeira",
+                "start": 13,
+                "end": 44,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais são as mesas de madeira maciça que vocês têm?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "mesas de madeira maciça",
+                "start": 13,
+                "end": 36,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou interessado na categoria de madeira bruta.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "madeira bruta",
+                "start": 34,
+                "end": 47,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostre os equipamentos de proteção.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "equipamentos de proteção",
+                "start": 13,
+                "end": 37,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de ver os acessórios para móveis.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "acessórios para móveis",
+                "start": 19,
+                "end": 41,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais puxadores vocês têm?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "puxadores",
+                "start": 6,
+                "end": 15,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Mostre-me os vernizes.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes",
+                "start": 13,
+                "end": 21,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preciso de seladora para madeira.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "seladora para madeira",
+                "start": 11,
+                "end": 32,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero ver os stains.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "stains",
+                "start": 13,
+                "end": 19,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais lixas vocês oferecem?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "lixas",
+                "start": 6,
+                "end": 11,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostre as serras.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "serras",
+                "start": 13,
+                "end": 19,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou procurando por furadeiras.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "furadeiras",
+                "start": 21,
+                "end": 31,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Mostre-me a seção de marcenaria.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "marcenaria",
+                "start": 21,
+                "end": 31,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quais painéis de demolição vocês têm?",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de demolição",
+                "start": 6,
+                "end": 26,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de ver os bancos de madeira.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "bancos de madeira",
+                "start": 19,
+                "end": 36,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostre a categoria de portas pivotantes.",
+        "intent": "buscar_produto_por_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "portas pivotantes",
+                "start": 25,
+                "end": 42,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero ver a Viga de Cambará na seção de vigas.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Cambará",
+                "start": 12,
+                "end": 27,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "start": 40,
+                "end": 45,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Busco o Deck de Cumaru, que é para áreas externas.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Cumaru",
+                "start": 8,
+                "end": 22,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "áreas externas",
+                "start": 35,
+                "end": 49,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostre o assoalho do tipo Ipê.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "assoalho",
+                "start": 12,
+                "end": 20,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Ipê",
+                "start": 29,
+                "end": 32,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou procurando a Tábua de Pinus, da categoria de tábuas.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Pinus",
+                "start": 19,
+                "end": 33,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "start": 51,
+                "end": 57,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Na categoria de portas, eu quero a Porta de Cedro Arana.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "portas",
+                "start": 16,
+                "end": 22,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Porta de Cedro Arana",
+                "start": 35,
+                "end": 55,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de informações sobre o Painel de Teca, que é um painel de madeira.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Teca",
+                "start": 32,
+                "end": 46,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painel de madeira",
+                "start": 57,
+                "end": 74,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Vocês têm Forro de Angelim na seção de forros?",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Forro de Angelim",
+                "start": 10,
+                "end": 26,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "forros",
+                "start": 39,
+                "end": 45,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Busco por Chapa de MDF na categoria de chapas de madeira.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de MDF",
+                "start": 10,
+                "end": 22,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "start": 39,
+                "end": 56,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero o Verniz Cetol Deck, que fica na seção de vernizes.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Cetol Deck",
+                "start": 8,
+                "end": 25,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes",
+                "start": 48,
+                "end": 56,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Viga de Garapeira da categoria de vigas, por favor.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Garapeira",
+                "start": 2,
+                "end": 19,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "start": 36,
+                "end": 41,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me interessei pelo Deck de Itaúba, que é um tipo de deck de madeira.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Itaúba",
+                "start": 19,
+                "end": 33,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "deck de madeira",
+                "start": 52,
+                "end": 67,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou buscando o Assoalho de Jatobá, um item da categoria assoalhos.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Jatobá",
+                "start": 17,
+                "end": 35,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "start": 58,
+                "end": 67,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Na categoria de tábuas, vocês têm a Tábua de Eucalipto?",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "start": 16,
+                "end": 22,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Eucalipto",
+                "start": 36,
+                "end": 54,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de ver a Janela de Angelim Pedra, que é uma janela de madeira.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Janela de Angelim Pedra",
+                "start": 18,
+                "end": 41,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "janela de madeira",
+                "start": 53,
+                "end": 70,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "janelas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Procuro pelo Painel de Pinus Elliottis na área de painéis.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Pinus Elliottis",
+                "start": 13,
+                "end": 38,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis",
+                "start": 50,
+                "end": 57,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Chapa de Compensado Naval é uma chapa de madeira, correto? Quero vê-la.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de Compensado Naval",
+                "start": 2,
+                "end": 27,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapa de madeira",
+                "start": 34,
+                "end": 50,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me mostre o Verniz Sparlack, que se enquadra em vernizes e stains.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Sparlack",
+                "start": 12,
+                "end": 27,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes e stains",
+                "start": 48,
+                "end": 65,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O produto é o Assoalho de Ipê e a categoria é assoalhos.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Ipê",
+                "start": 14,
+                "end": 29,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "start": 46,
+                "end": 55,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Na seção de vigas, estou procurando a Viga de Cambará.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "start": 12,
+                "end": 17,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Cambará",
+                "start": 38,
+                "end": 53,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de saber mais sobre a Porta de Cedro Arana, uma porta que vocês vendem.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Porta de Cedro Arana",
+                "start": 31,
+                "end": 51,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "porta",
+                "start": 57,
+                "end": 62,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Busco especificamente pelos decks de madeira modelo Deck de Cumaru.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "start": 28,
+                "end": 44,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Cumaru",
+                "start": 52,
+                "end": 66,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero a Viga de Garapeira. Ela está na categoria vigas, certo?",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Garapeira",
+                "start": 8,
+                "end": 25,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "start": 49,
+                "end": 54,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Painel de Teca é um painel de madeira. Me mostre as opções.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Teca",
+                "start": 2,
+                "end": 16,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painel de madeira",
+                "start": 22,
+                "end": 39,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Mostre-me a Chapa de MDF da categoria de chapas de madeira.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de MDF",
+                "start": 12,
+                "end": 24,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "start": 41,
+                "end": 58,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou atrás do Assoalho de Jatobá, que é um assoalho.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Jatobá",
+                "start": 15,
+                "end": 33,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalho",
+                "start": 44,
+                "end": 52,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Janela de Angelim Pedra (uma janela de madeira) está disponível?",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Janela de Angelim Pedra",
+                "start": 2,
+                "end": 25,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "janela de madeira",
+                "start": 31,
+                "end": 48,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "janelas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Na categoria vernizes, quero informações do Verniz Cetol Deck.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes",
+                "start": 13,
+                "end": 21,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Cetol Deck",
+                "start": 44,
+                "end": 61,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Deck de Itaúba da categoria decks está em estoque?",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Itaúba",
+                "start": 2,
+                "end": 16,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks",
+                "start": 30,
+                "end": 35,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero a Tábua de Pinus. A categoria é tábuas.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Pinus",
+                "start": 8,
+                "end": 22,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "start": 38,
+                "end": 44,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Painel de Pinus Elliottis, que é da categoria de painéis, me interessa.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Pinus Elliottis",
+                "start": 2,
+                "end": 27,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis",
+                "start": 51,
+                "end": 58,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Das chapas de madeira, eu quero a Chapa de Compensado Naval.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "start": 4,
+                "end": 21,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de Compensado Naval",
+                "start": 34,
+                "end": 59,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero a viga Viga de Cambará.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "viga",
+                "start": 8,
+                "end": 12,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Cambará",
+                "start": 13,
+                "end": 28,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Busco pelo deck Deck de Cumaru.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "deck",
+                "start": 11,
+                "end": 15,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Cumaru",
+                "start": 16,
+                "end": 30,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero o assoalho Assoalho de Ipê.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "assoalho",
+                "start": 8,
+                "end": 16,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Ipê",
+                "start": 17,
+                "end": 32,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou procurando a tábua Tábua de Pinus.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "tábua",
+                "start": 19,
+                "end": 24,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Pinus",
+                "start": 25,
+                "end": 39,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de ver a porta Porta de Cedro Arana.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "porta",
+                "start": 18,
+                "end": 23,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Porta de Cedro Arana",
+                "start": 24,
+                "end": 44,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Mostre-me o painel Painel de Teca.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "painel",
+                "start": 12,
+                "end": 18,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Teca",
+                "start": 19,
+                "end": 33,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O forro que eu quero é o Forro de Angelim.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "forro",
+                "start": 2,
+                "end": 7,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Forro de Angelim",
+                "start": 25,
+                "end": 41,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Na categoria chapas de madeira, busco a Chapa de MDF.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "start": 13,
+                "end": 30,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de MDF",
+                "start": 40,
+                "end": 52,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O verniz que me interessa é o Verniz Cetol Deck.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "verniz",
+                "start": 2,
+                "end": 8,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Cetol Deck",
+                "start": 30,
+                "end": 47,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O deck que procuro é o Deck de Itaúba.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "deck",
+                "start": 2,
+                "end": 6,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Itaúba",
+                "start": 23,
+                "end": 37,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Sobre vigas, quero saber da Viga de Garapeira.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "start": 6,
+                "end": 11,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Garapeira",
+                "start": 28,
+                "end": 45,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "De assoalhos, me mostre o Assoalho de Jatobá.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "start": 3,
+                "end": 12,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Jatobá",
+                "start": 26,
+                "end": 44,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Em tábuas, me fale sobre a Tábua de Eucalipto.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "start": 3,
+                "end": 9,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Eucalipto",
+                "start": 27,
+                "end": 45,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Sobre janelas, o que me dizem da Janela de Angelim Pedra?",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "janelas",
+                "start": 6,
+                "end": 13,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Janela de Angelim Pedra",
+                "start": 33,
+                "end": 56,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Da categoria painéis, me interessei pelo Painel de Pinus Elliottis.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "painéis",
+                "start": 13,
+                "end": 20,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Pinus Elliottis",
+                "start": 41,
+                "end": 66,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Em chapas de madeira, tem a Chapa de Compensado Naval?",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "start": 3,
+                "end": 20,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de Compensado Naval",
+                "start": 28,
+                "end": 53,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero saber sobre o Verniz Sparlack, que é um verniz.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Sparlack",
+                "start": 20,
+                "end": 35,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "verniz",
+                "start": 46,
+                "end": 52,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Viga de Cambará é uma viga, certo? Quero ver.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Cambará",
+                "start": 2,
+                "end": 17,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "viga",
+                "start": 24,
+                "end": 28,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de informações do Deck de Cumaru na seção de decks.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Cumaru",
+                "start": 27,
+                "end": 41,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks",
+                "start": 54,
+                "end": 59,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Assoalho de Ipê, que é um assoalho, está à venda?",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Ipê",
+                "start": 2,
+                "end": 17,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalho",
+                "start": 28,
+                "end": 36,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou procurando uma tábua, mais especificamente a Tábua de Pinus.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "tábua",
+                "start": 21,
+                "end": 26,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Pinus",
+                "start": 51,
+                "end": 65,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Busco uma porta, o modelo Porta de Cedro Arana.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "porta",
+                "start": 10,
+                "end": 15,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Porta de Cedro Arana",
+                "start": 26,
+                "end": 46,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero um painel, o Painel de Teca.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "painel",
+                "start": 9,
+                "end": 15,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Teca",
+                "start": 19,
+                "end": 33,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Procuro por um forro, o Forro de Angelim.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "forro",
+                "start": 15,
+                "end": 20,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Forro de Angelim",
+                "start": 24,
+                "end": 40,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de uma chapa de madeira, a Chapa de MDF.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "chapa de madeira",
+                "start": 16,
+                "end": 32,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de MDF",
+                "start": 36,
+                "end": 48,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero um verniz, o Verniz Cetol Deck.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "verniz",
+                "start": 9,
+                "end": 15,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Cetol Deck",
+                "start": 19,
+                "end": 36,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Busco uma viga, a Viga de Garapeira.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "viga",
+                "start": 10,
+                "end": 14,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Garapeira",
+                "start": 18,
+                "end": 35,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou interessado em um deck, o Deck de Itaúba.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "deck",
+                "start": 24,
+                "end": 28,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Itaúba",
+                "start": 32,
+                "end": 46,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Procuro por um assoalho, o Assoalho de Jatobá.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "assoalho",
+                "start": 15,
+                "end": 23,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Jatobá",
+                "start": 27,
+                "end": 45,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de uma tábua, o modelo Tábua de Eucalipto.",
+        "intent": "informar_produto_e_categoria",
+        "entities": [
+            {
+                "entity": "categoria_produto",
+                "value": "tábua",
+                "start": 16,
+                "end": 21,
+                "source": [
+                    "text",
+                    "inference"
+                ]
+            },
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Eucalipto",
+                "start": 32,
+                "end": 50,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quanto custa a Viga de Cambará?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Cambará",
+                "start": 15,
+                "end": 30,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Por quanto sai o Deck de Cumaru?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Cumaru",
+                "start": 17,
+                "end": 31,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o preço do Assoalho de Ipê?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Ipê",
+                "start": 16,
+                "end": 31,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me diga o valor da Tábua de Pinus.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Pinus",
+                "start": 19,
+                "end": 33,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quanto é a Porta de Cedro Arana?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Porta de Cedro Arana",
+                "start": 11,
+                "end": 31,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "portas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o preço do Painel de Teca?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Teca",
+                "start": 16,
+                "end": 30,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de saber o preço do Forro de Angelim.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Forro de Angelim",
+                "start": 29,
+                "end": 45,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "forros",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Por quanto está a Chapa de MDF?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de MDF",
+                "start": 18,
+                "end": 30,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o valor do Verniz Cetol Deck?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Cetol Deck",
+                "start": 16,
+                "end": 33,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes e stains",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quanto eu pago pela Viga de Garapeira?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Garapeira",
+                "start": 20,
+                "end": 37,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preço do Deck de Itaúba, por favor.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Itaúba",
+                "start": 9,
+                "end": 23,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Valor do Assoalho de Jatobá?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Jatobá",
+                "start": 9,
+                "end": 27,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Tábua de Eucalipto custa quanto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Eucalipto",
+                "start": 2,
+                "end": 20,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Janela de Angelim Pedra está por quanto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Janela de Angelim Pedra",
+                "start": 2,
+                "end": 25,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "janelas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o preço do Painel de Pinus Elliottis hoje?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Pinus Elliottis",
+                "start": 16,
+                "end": 41,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me informa o valor da Chapa de Compensado Naval.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de Compensado Naval",
+                "start": 22,
+                "end": 47,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quanto custa em reais o Verniz Sparlack?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Sparlack",
+                "start": 24,
+                "end": 39,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes e stains",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Viga de Cambará sai a quanto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Cambará",
+                "start": 2,
+                "end": 17,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Poderia me dizer o preço do metro do Deck de Cumaru?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Cumaru",
+                "start": 37,
+                "end": 51,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o custo do metro quadrado do Assoalho de Ipê?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Ipê",
+                "start": 34,
+                "end": 49,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Estou interessado no preço da Tábua de Pinus.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Pinus",
+                "start": 30,
+                "end": 44,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual é a facada pela Porta de Cedro Arana?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Porta de Cedro Arana",
+                "start": 21,
+                "end": 41,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "portas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me vê o preço do Painel de Teca.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Teca",
+                "start": 17,
+                "end": 31,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quanto está custando o metro do Forro de Angelim?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Forro de Angelim",
+                "start": 32,
+                "end": 48,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "forros",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Chapa de MDF, qual o valor?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de MDF",
+                "start": 2,
+                "end": 14,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de saber o valor do Verniz Cetol Deck.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Cetol Deck",
+                "start": 29,
+                "end": 46,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes e stains",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o preço de tabela da Viga de Garapeira?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Garapeira",
+                "start": 26,
+                "end": 43,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Por qual valor consigo comprar o Deck de Itaúba?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Itaúba",
+                "start": 33,
+                "end": 47,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o preço final do Assoalho de Jatobá?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Jatobá",
+                "start": 22,
+                "end": 40,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quanto de dinheiro eu preciso para comprar Tábua de Eucalipto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Eucalipto",
+                "start": 43,
+                "end": 61,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Valor, por favor, da Janela de Angelim Pedra.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Janela de Angelim Pedra",
+                "start": 21,
+                "end": 44,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "janelas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preço do Painel de Pinus Elliottis?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Pinus Elliottis",
+                "start": 9,
+                "end": 34,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "E a Chapa de Compensado Naval, quanto custa?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de Compensado Naval",
+                "start": 4,
+                "end": 29,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Diga-me o preço do Verniz Sparlack.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Sparlack",
+                "start": 19,
+                "end": 34,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes e stains",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Viga de Cambará está saindo por quanto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Cambará",
+                "start": 2,
+                "end": 17,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quanto custa o Deck de Cumaru à vista?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Cumaru",
+                "start": 15,
+                "end": 29,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o preço parcelado do Assoalho de Ipê?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Ipê",
+                "start": 26,
+                "end": 41,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Tábua de Pinus tem desconto? Qual o preço?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Pinus",
+                "start": 2,
+                "end": 16,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o valor de mercado da Porta de Cedro Arana?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Porta de Cedro Arana",
+                "start": 27,
+                "end": 47,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "portas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Painel de Teca, qual o preço de lançamento?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Teca",
+                "start": 2,
+                "end": 16,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o preço do Forro de Angelim de 3 metros?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Forro de Angelim",
+                "start": 16,
+                "end": 32,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "forros",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Chapa de MDF de 15mm custa quanto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de MDF",
+                "start": 2,
+                "end": 14,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me passe o orçamento para 20m² de Assoalho de Jatobá.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Jatobá",
+                "start": 34,
+                "end": 52,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Uma Porta de Cedro Arana completa, com batente, qual o valor?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Porta de Cedro Arana",
+                "start": 4,
+                "end": 24,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "portas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quanto sai 10 Vigas de Garapeira de 4 metros?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Vigas de Garapeira",
+                "start": 14,
+                "end": 32,
+                "source": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preço do kit do Deck de Itaúba com fixadores?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Itaúba",
+                "start": 16,
+                "end": 30,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o valor da Tábua de Eucalipto tratada?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Eucalipto",
+                "start": 16,
+                "end": 34,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Janela de Angelim Pedra na medida 1,20x1,00, qual o preço?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Janela de Angelim Pedra",
+                "start": 2,
+                "end": 25,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "janelas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de uma cotação para o Painel de Pinus Elliottis.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Pinus Elliottis",
+                "start": 31,
+                "end": 56,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Chapa de Compensado Naval de 18mm custa quanto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de Compensado Naval",
+                "start": 2,
+                "end": 27,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o valor da Viga de Cambará no boleto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Cambará",
+                "start": 16,
+                "end": 31,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Por quanto eu levo o Deck de Cumaru hoje?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Cumaru",
+                "start": 21,
+                "end": 35,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Assoalho de Ipê tem alguma promoção? Qual o preço?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Ipê",
+                "start": 2,
+                "end": 17,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o valor da Tábua de Pinus em ponta de estoque?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Pinus",
+                "start": 16,
+                "end": 30,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Porta de Cedro Arana de mostruário, quanto custa?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Porta de Cedro Arana",
+                "start": 2,
+                "end": 22,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "portas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o preço da Chapa de MDF com avaria?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de MDF",
+                "start": 16,
+                "end": 28,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Forro de Angelim da safra passada, qual o valor?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Forro de Angelim",
+                "start": 2,
+                "end": 18,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "forros",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quanto custa o Deck de Itaúba de segunda linha?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Itaúba",
+                "start": 15,
+                "end": 29,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o valor do Verniz Sparlack reembalado?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Sparlack",
+                "start": 16,
+                "end": 31,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes e stains",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Viga de Garapeira importada sai por quanto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Garapeira",
+                "start": 2,
+                "end": 19,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Me diga o preço da Janela de Angelim Pedra, por gentileza.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Janela de Angelim Pedra",
+                "start": 19,
+                "end": 42,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "janelas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Painel de Pinus Elliottis, qual o valor final?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Pinus Elliottis",
+                "start": 2,
+                "end": 27,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quanto preciso desembolsar pelo Assoalho de Jatobá?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Jatobá",
+                "start": 32,
+                "end": 50,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Viga de Cambará está em que faixa de preço?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Cambará",
+                "start": 2,
+                "end": 17,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o custo de aquisição da Porta de Cedro Arana?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Porta de Cedro Arana",
+                "start": 29,
+                "end": 49,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "portas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Deck de Cumaru vale quanto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Cumaru",
+                "start": 2,
+                "end": 16,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Poderia informar o preço da Tábua de Pinus?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Tábua de Pinus",
+                "start": 28,
+                "end": 42,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "tábuas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Painel de Teca está quanto?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Teca",
+                "start": 2,
+                "end": 16,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gostaria de saber o preço do Forro de Angelim agora.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Forro de Angelim",
+                "start": 29,
+                "end": 45,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "forros",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Qual o preço atual da Chapa de MDF?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de MDF",
+                "start": 22,
+                "end": 34,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A Viga de Garapeira, me fale sobre o preço.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Garapeira",
+                "start": 2,
+                "end": 19,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "O Deck de Itaúba, e o preço?",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Itaúba",
+                "start": 2,
+                "end": 16,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Quero saber o preço do Assoalho de Jatobá.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Jatobá",
+                "start": 23,
+                "end": 41,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preço da Janela de Angelim Pedra.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Janela de Angelim Pedra",
+                "start": 9,
+                "end": 32,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "janelas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Valor do Painel de Pinus Elliottis.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Painel de Pinus Elliottis",
+                "start": 9,
+                "end": 34,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "painéis de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preço da Chapa de Compensado Naval.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Chapa de Compensado Naval",
+                "start": 9,
+                "end": 34,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "chapas de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preço do Verniz Sparlack.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Verniz Sparlack",
+                "start": 9,
+                "end": 24,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vernizes e stains",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Valor da Viga de Cambará.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Viga de Cambará",
+                "start": 9,
+                "end": 24,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "vigas",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Preço do Deck de Cumaru.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Deck de Cumaru",
+                "start": 9,
+                "end": 23,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "decks de madeira",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Valor do Assoalho de Ipê.",
+        "intent": "perguntar_preco",
+        "entities": [
+            {
+                "entity": "produto_especifico",
+                "value": "Assoalho de Ipê",
+                "start": 9,
+                "end": 24,
+                "source": [
+                    "text"
+                ]
+            },
+            {
+                "entity": "categoria_produto",
+                "value": "assoalhos",
+                "source": [
+                    "inference"
+                ]
+            }
+        ]
+    }
+]
